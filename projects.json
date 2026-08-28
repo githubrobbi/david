@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Snappy",
+    "tagline": "The beer die game: fast rounds, clean rules, built to be played.",
+    "stack": [
+      "fill in: language / engine / platform"
+    ],
+    "repo": "https://github.com/<david>/snappy",
+    "live": "",
+    "image": "",
+    "notes": "Replace this card's links and stack with the real ones; add a screenshot under images/ and set \"image\"."
+  }
+]
